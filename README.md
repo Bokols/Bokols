@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&vCenter=true&width=435&lines=Bo+Kolstrup;Ingeniero+ML+y+Ciencia+de+Datos;Especialista+en+Marketing+Digital;Estratega+de+Datos" alt="Título Bo Kolstrup" />
 
-  <a href="https://github.com/Bokols">
+<a href="https://github.com/Bokols">
     <img src="https://komarev.com/ghpvc/?username=Bokols&label=🌟%20VISITAS%20AL%20PERFIL%20🌟&color=54A2FF&style=for-the-badge" alt="Visitas al perfil" />
   </a>
 </div>
