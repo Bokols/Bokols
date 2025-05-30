@@ -151,6 +151,4 @@ Soy **Científico de Datos** e **Ingeniero de Machine Learning** certificado por
 
 ---
 
-<!-- English version link -->
-[🇺🇸 English Version](https://github.com/Bokols/README-EN)
 
