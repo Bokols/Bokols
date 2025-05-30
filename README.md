@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bokols&label=Visitas%20al%20perfil&color=0&icon=5&pretty=true" alt="Visitas al perfil" />
+  <p>👀 Visitas al perfil: <a href="https://github.com/Bokols?tab=repositories">contador temporalmente desactivado</a></p>
 </div>
 
 ---
