@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <p>👀 Visitas al perfil: <a href="https://github.com/Bokols?tab=repositories">contador temporalmente desactivado</a></p>
+  <img src="https://profile-counter.glitch.me/Bokols/count.svg?text=Visitas%20al%20perfil%3A&color=54A2FF" alt="Visitas al perfil" />
 </div>
 
 ---
