@@ -4,9 +4,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Bokols/count.svg?text=Visitas%20al%20perfil%3A&color=54A2FF" alt="Visitas al perfil" />
+  <!-- Visually Enhanced Profile Counter -->
+  <div style="margin: 20px 0; padding: 10px; border: 2px solid #54A2FF; border-radius: 10px; display: inline-block; animation: pulse 2s infinite;">
+    <img src="https://profile-counter.glitch.me/Bokols/count.svg?text=🚀%20Visitas%20al%20perfil%20%7C&color=54A2FF&fontSize=20&style=for-the-badge" alt="Visitas al perfil" />
+  </div>
 </div>
+
+<style>
+  @keyframes pulse {
+    0% { box-shadow: 0 0 0 0 rgba(84, 162, 255, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(84, 162, 255, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(84, 162, 255, 0); }
+  }
+</style>
 
 ---
 
