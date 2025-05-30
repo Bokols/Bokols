@@ -1,22 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54A2FF&center=true&vCenter=true&width=435&lines=Bo+Kolstrup;Ingeniero+ML+y+Ciencia+de+Datos;Especialista+en+Marketing+Digital;Estratega+de+Datos" alt="Título Bo Kolstrup" />
+
+  <a href="https://github.com/Bokols">
+    <img src="https://komarev.com/ghpvc/?username=Bokols&label=🌟%20VISITAS%20AL%20PERFIL%20🌟&color=54A2FF&style=for-the-badge" alt="Visitas al perfil" />
+  </a>
 </div>
-
-###
-
-  <!-- Visually Enhanced Profile Counter -->
-  <div style="margin: 20px 0; padding: 10px; border: 2px solid #54A2FF; border-radius: 10px; display: inline-block; animation: pulse 2s infinite;">
-    <img src="https://profile-counter.glitch.me/Bokols/count.svg?text=🚀%20Visitas%20al%20perfil%20%7C&color=54A2FF&fontSize=20&style=for-the-badge" alt="Visitas al perfil" />
-  </div>
-</div>
-
-<style>
-  @keyframes pulse {
-    0% { box-shadow: 0 0 0 0 rgba(84, 162, 255, 0.7); }
-    70% { box-shadow: 0 0 0 10px rgba(84, 162, 255, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(84, 162, 255, 0); }
-  }
-</style>
 
 ---
 
