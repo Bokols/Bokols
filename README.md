@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bokols&label=Visitas+al+perfil&color=blue&style=flat" alt="Visitas al perfil" />
+  <img src="https://visitcount.itsvg.in/api?id=Bokols&label=Visitas%20al%20perfil&color=0&icon=5&pretty=true" alt="Visitas al perfil" />
 </div>
 
 ---
